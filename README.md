@@ -2,9 +2,7 @@
 <h1 align="center">Hi 👋, I'm Metinhan Çezik</h1>
 <h3 align="center">A passionate full-stack developer from Türkiye</h3>
 
-- 🔭 I’m currently working on [a healthy life assistant project](https://github.com/metinhancezik/healthy-life-assistant)
 
-- 🌱 I’m currently learning **React, node.js**
 
 - 📫 How to reach me **metinhanczk@gmail.com**
 
