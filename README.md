@@ -47,7 +47,6 @@ I build robust and scalable applications using modern web technologies.
 
 ### 📊 GitHub Stats
 
-### 📊 GitHub Insights
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=metinhancezik&show_icons=true&theme=tokyonight&hide_border=true&custom_title=GitHub+Stats" width="49.5%" />
