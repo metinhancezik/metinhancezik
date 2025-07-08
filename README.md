@@ -1,4 +1,4 @@
-# 👋 Hi, I'm Metinhan Çezik
+# 👋 Hi, I'm Metinhan Cezik
 
 ### 💻 Full-Stack Developer from Türkiye 🇹🇷  
 I build robust and scalable applications using modern web technologies.
